@@ -67,4 +67,4 @@ significance of accurate and well-organized data in driving effective business d
 
 ## Dashboard image
 
-![Screenshot (19)]
+![DashBoard Image]
